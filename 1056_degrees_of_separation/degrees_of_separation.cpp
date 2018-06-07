@@ -11,6 +11,7 @@
 #include <math.h>
 #include <map>
 #include <queue>
+#include <cstdint>
 #define MAXNODE 50
 
 using namespace std;
