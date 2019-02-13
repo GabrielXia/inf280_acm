@@ -78,7 +78,6 @@ int BFS(pair<int, int> root, int road[MAXNODE][MAXNODE], int freq[MAXNODE][MAXNO
   return -1;
 }
 
-
 int main() {
   int N;
   int road[MAXNODE][MAXNODE];

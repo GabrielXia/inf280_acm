@@ -17,10 +17,8 @@
 using namespace std;
 
 int main() {
-
     int T, N;
     scanf("%d", &T);
-
     int x, y;
     int index = 0;
     for (int i = 0; i < T; i++) {
@@ -58,7 +56,6 @@ int main() {
                 s.pop();
             }
         }
-
         index ++;
         printf("Case #%d\n", index);
         if ((*circuit.begin()) != (*(circuit.end()-1))) {
@@ -72,6 +69,5 @@ int main() {
           printf("\n");
         }
     }
-
     return 0;
 }

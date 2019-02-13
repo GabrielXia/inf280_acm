@@ -12,12 +12,10 @@
 #include <utility>
 #include <stack>
 #include <list>
+#include <bitset>
 
 using namespace std;
 
 int main() {
-  double x, y;
-  while(scanf("%lf %lf", &x, &y) == 2) {
-    printf("%lf %lf\n", x, y);
-  }
+  
 }

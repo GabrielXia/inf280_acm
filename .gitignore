@@ -3,3 +3,8 @@
 input*
 output
 *.pdf
+*.in
+out
+*.pyc
+*/.out
+.vscode/*

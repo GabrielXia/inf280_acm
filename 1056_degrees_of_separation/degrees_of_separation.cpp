@@ -16,7 +16,6 @@
 
 using namespace std;
 
-
 int BFS(int root, bool path[MAXNODE][MAXNODE], int nodeNum) {
     queue<int> Q;
     bool visited[MAXNODE] = {};
@@ -99,5 +98,4 @@ int main() {
           }
       }
     }
-
 }
