@@ -6,7 +6,7 @@
 
 def sort_two_k(s1, s2, k):
     # return the one after the last one
-
+    
 
 class Solution:
     def sortList(self, head):
@@ -22,7 +22,7 @@ class Solution:
 
         k = 2
         while k < length:
-            
+
 
             k *= 2
         
